@@ -1,0 +1,17 @@
+{
+"companyName": "GDUT",
+"productName": "BRICK BREAKER",
+"productVersion": "0.1",
+"dataUrl": "BRICK BREAKER.data.unityweb",
+"wasmCodeUrl": "BRICK BREAKER.wasm.code.unityweb",
+"wasmFrameworkUrl": "BRICK BREAKER.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "BRICK BREAKER.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
